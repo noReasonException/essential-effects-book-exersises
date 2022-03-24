@@ -1,4 +1,4 @@
-name: scala-with-cats-exersises-testAll
+name: essential-effects-exersises-testAll
 on: [push]
 jobs:
   unit-tests:

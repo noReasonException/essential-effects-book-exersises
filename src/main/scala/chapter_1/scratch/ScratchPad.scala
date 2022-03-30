@@ -1,8 +1,9 @@
-package chapter_1
+package chapter_1.scratch
+
+import scala.concurrent.{ExecutionContext, Future}
+import cats.implicits._
 
 import scala.concurrent.ExecutionContext.Implicits.global
-import scala.concurrent.Future
-import cats.implicits._
 /**
  * Effects checklist
  * 1) Is clear what kind of effect this type will have?

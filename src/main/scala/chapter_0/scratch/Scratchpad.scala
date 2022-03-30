@@ -1,5 +1,7 @@
-package chapter_0
+package chapter_0.scratch
+
 import cats.implicits._
+
 object Scratchpad {
   def main(args:Array[String]):Unit={
     //.as helper
